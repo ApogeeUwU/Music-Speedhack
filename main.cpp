@@ -4,8 +4,6 @@
 #include <MinHook.h>
 #include <gd.h>
 #include <Windows.h>
-#include <random>
-#include <thread>
 #include <Shlwapi.h>
 #include <Commdlg.h>
 #pragma comment(lib, "Shlwapi.lib")
